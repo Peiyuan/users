@@ -1,0 +1,24 @@
+{
+  "author": "Jerald Sheets",
+  "checksums": {
+    "Rakefile": "f37e6131fe7de9a49b09d31596f5fbf1",
+    "files/rootkeys": "36ee6d8b2ec36309f035fc3890b70eaa",
+    "manifests/root.pp": "2ccdc7cbc89c3f3b22632a2fc7aeaaf8",
+    "manifests/admin.pp": "8fada0ccbbd4018e1eed523205cc630b",
+    "manifests/init.pp": "a86c7b922cee6c969c3cf5691b460492",
+    "Modulefile": "ff27420dc86ad9c69a84243ed021a9f4",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "tests/init.pp": "b3ffc64a2d32504820e00714f56e5e60",
+    "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+    "README.markdown": "7649b973613b2712f87d1b4e6580af6b"
+  },
+  "dependencies": [],
+  "description": "Basic Modules to share with customers in PE engagements",
+  "license": "GPLv2+",
+  "name": "shadojsheets-users",
+  "project_page": "",
+  "source": "",
+  "summary": "Generic Module to Manage users",
+  "types": [],
+  "version": "0.1.0"
+}
